@@ -1,73 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="403509" "tvg-chno="26" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/FoodNetwork.jpg" group-title="TV",The Food Network
+#EXTINF:-1 tvg-id="403509" "tvg-chno="26" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/FoodNetwork.jpg" group-title="Extra",The Food Network
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-384.php
 
-#EXTINF:-1 tvg-id="iFoodTV.us" tvg-chno="27" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/ifood.jpg" group-title="TV",iFood.TV (720p)
+#EXTINF:-1 tvg-id="iFoodTV.us" tvg-chno="27" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/ifood.jpg" group-title="Extra",iFood.TV (720p)
 https://ifood-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="403880" tvg-chno="28" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/InvestigationDiscovery.png",Investigation Discovery
+#EXTINF:-1 tvg-id="403880" tvg-chno="28" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/InvestigationDiscovery.png",Investigation Discovery
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-324.php
 
-#EXTINF:-1 tvg-id="Dateline247.us" "tvg-chno="29" tvg-logo="https://i.imgur.com/8mAJuut.png" group-title="TV",Dateline 24/7
+#EXTINF:-1 tvg-id="Dateline247.us" "tvg-chno="29" tvg-logo="https://i.imgur.com/8mAJuut.png" group-title="Extra",Dateline 24/7
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 
-#EXTINF:-1 tvg-id="ColdCaseFiles.us" "tvg-chno="30" tvg-logo="https://i.imgur.com/mowSfj6.png" group-title="TV",Cold Case Files (1080p)
+#EXTINF:-1 tvg-id="ColdCaseFiles.us" "tvg-chno="30" tvg-logo="https://i.imgur.com/mowSfj6.png" group-title="Extra",Cold Case Files (1080p)
 https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8
 
-#EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-chno="31" tvg-logo="https://i.imgur.com/UKfimFD.png" group-title="TV",Outdoor America
+#EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-chno="31" tvg-logo="https://i.imgur.com/UKfimFD.png" group-title="Extra",Outdoor America
 https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="403580" "tvg-chno="32" tvg-logo="https://i.imgur.com/5Vzwqts.png" group-title="TV",Pursuit UP (720p)
+#EXTINF:-1 tvg-id="403580" "tvg-chno="32" tvg-logo="https://i.imgur.com/5Vzwqts.png" group-title="Extra",Pursuit UP (720p)
 https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="369721" tvg-chno="34" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="TV",Outdoor Channel
+#EXTINF:-1 tvg-id="369721" tvg-chno="34" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Extra",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OutsideTV.us "tvg-chno="35" tvg-logo="https://i.imgur.com/0UMmG41.png" group-title="TV",Outside TV (720p)
+#EXTINF:-1 tvg-id="OutsideTV.us "tvg-chno="35" tvg-logo="https://i.imgur.com/0UMmG41.png" group-title="Extra",Outside TV (720p)
 https://outside-tv-samsung-ca.samsung.wurl.tv/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WaypointTV.us" "tvg-chno="36" tvg-logo="https://i.imgur.com/9vvlJN9.png" group-title="TV",Waypoint TV (1080p)
+#EXTINF:-1 tvg-id="WaypointTV.us" "tvg-chno="36" tvg-logo="https://i.imgur.com/9vvlJN9.png" group-title="Extra",Waypoint TV (1080p)
 https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sport Fishing TV" tvg-chno="37" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/SportFishing.jpg" group-title="List-Nature",Sport Fishing TV
+#EXTINF:-1 tvg-id="Sport Fishing TV" tvg-chno="37" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/SportFishing.jpg" group-title="Extra",Sport Fishing TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
 
-#EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" "tvg-chno="38" tvg-logo="https://i.imgur.com/Q4l2uao.png" group-title="TV",30A Darcizzle Offshore (720p)
+#EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" "tvg-chno="38" tvg-logo="https://i.imgur.com/Q4l2uao.png" group-title="Extra",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 
-#EXTINF:-1 tvg-id="403699" tvg-chno="39" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/AnimalPlanet.png",Animal Planet
+#EXTINF:-1 tvg-id="403699" tvg-chno="39" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/AnimalPlanet.png",Animal Planet
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-304.php
 
-#EXTINF:-1 tvg-id="8928"  tvg-chno="40" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/WorldFishingNetwork.png" group-title="TV",World Fishing Network (1080p)
+#EXTINF:-1 tvg-id="8928"  tvg-chno="40" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/WorldFishingNetwork.png" group-title="Extra",World Fishing Network (1080p)
 http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="403555" tvg-chno="41" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/science.png",Science Channel
+#EXTINF:-1 tvg-id="403555" tvg-chno="41" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/science.png",Science Channel
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-294.php
 
-#EXTINF:-1 tvg-id="9620" tvg-chno="42" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/SkyHistory.png",Sky History
+#EXTINF:-1 tvg-id="9620" tvg-chno="42" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/SkyHistory.png",Sky History
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-686.php
 
-#EXTINF:-1 tvg-id="403795" tvg-chno="43" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/history.png",History Channel
+#EXTINF:-1 tvg-id="403795" tvg-chno="43" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/history.png",History Channel
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-322.php
 
-#EXTINF:-1 tvg-id="403564" tvg-chno="44" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/discovery.png",Discovery Channel
+#EXTINF:-1 tvg-id="403564" tvg-chno="44" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/discovery.png",Discovery Channel
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-313.php
 
-#EXTINF:-1 tvg-id="403563" tvg-chno="45" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/NatGeoWild.png",Nat Geo Wild
+#EXTINF:-1 tvg-id="403563" tvg-chno="45" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/NatGeoWild.png",Nat Geo Wild
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-745.php
 
-#EXTINF:-1 tvg-id="403578" tvg-chno="46" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/NationalGeographic.png",National Geographic
+#EXTINF:-1 tvg-id="403578" tvg-chno="46" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/NationalGeographic.png",National Geographic
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-328.php
 
-#EXTINF:-1 tvg-id="403739" tvg-chno="47" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/DestinationAmerica.png",Destination America
+#EXTINF:-1 tvg-id="403739" tvg-chno="47" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/DestinationAmerica.png",Destination America
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-651.php
 
-#EXTINF:-1 tvg-id="422712" tvg-chno="48" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/RedBull.png",Red Bull TV
+#EXTINF:-1 tvg-id="422712" tvg-chno="48" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/RedBull.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="403793" "tvg-chno="60" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/espn.jpeg" group-title="TV",ESPN USA
+#EXTINF:-1 tvg-id="403793" "tvg-chno="60" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/espn.jpeg" group-title="Extra",ESPN USA
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-44.php
 
-#EXTINF:-1 tvg-id="403821" "tvg-chno="61" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/espn2.jpeg" group-title="TV",ESPN2 USA
+#EXTINF:-1 tvg-id="403821" "tvg-chno="61" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/espn2.jpeg" group-title="Extra",ESPN2 USA
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-45.php
 
 
