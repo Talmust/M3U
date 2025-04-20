@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="10" tvg-chno="10" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/10tv.png",כלכלה 10
+plugin://plugin.video.idanplus/?mode=5&url=ch_10
+
+#EXTINF:-1 tvg-id="11" tvg-chno="11" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg",כאן 11
+plugin://plugin.video.idanplus/?mode=5&url=ch_11
+
+#EXTINF:-1 tvg-id="12" tvg-chno="12" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/keshet.jpg",קשת 12
+plugin://plugin.video.idanplus/?mode=5&url=ch_12
+
+#EXTINF:-1 tvg-id="13" tvg-chno="13" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/13.jpg",רשת 13
+plugin://plugin.video.idanplus/?mode=5&url=ch_13
+
+#EXTINF:-1 tvg-id="14" tvg-chno="14" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/14tv.png",עכשיו 14
+plugin://plugin.video.idanplus/?mode=5&url=ch_14
+
+#EXTINF:-1 tvg-id="i24news" tvg-chno="15" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/i24news.png",i24news
+plugin://plugin.video.idanplus/?mode=5&url=ch_i24news
+
+#EXTINF:-1 tvg-id="13comedy" tvg-chno="16" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/13comedy.jpg",ערוץ הקומדיות
+plugin://plugin.video.idanplus/?mode=5&url=ch_13comedy
+
+#EXTINF:-1 tvg-id="13nofesh" tvg-chno="17" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/13nofesh.jpg",ערוץ הנופש
+plugin://plugin.video.idanplus/?mode=5&url=ch_13nofesh
+
+#EXTINF:-1 tvg-id="13reality" tvg-chno="18" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/13reality.jpg",ערוץ הריאליטי
+plugin://plugin.video.idanplus/?mode=5&url=ch_13reality
+
+#EXTINF:-1 tvg-id="23" tvg-chno="23" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/23tv.jpg",כאן חינוכית 23
+plugin://plugin.video.idanplus/?mode=5&url=ch_23
+
+#EXTINF:-1 tvg-id="24" tvg-chno="24" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/24telad.png",ערוץ 24
+plugin://plugin.video.idanplus/?mode=5&url=ch_24
+
+#EXTINF:-1 tvg-id="33" tvg-chno="33" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/makan.png",מכאן 33
+plugin://plugin.video.idanplus/?mode=5&url=ch_33
+
+#EXTINF:-1 tvg-id="34" tvg-chno="86" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/ynet.jpg",ערוץ Ynet
+plugin://plugin.video.idanplus/?mode=5&url=ch_ynet
+
+#EXTINF:-1 tvg-id="34" tvg-chno="87" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/walla.png",ערוץ וואלה+
+plugin://plugin.video.idanplus/?mode=5&url=ch_walla
+
+#EXTINF:-1 tvg-id="88" tvg-chno="88" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/88.png",כאן 88
+plugin://plugin.video.idanplus/?mode=5&url=rd_88
+
+#EXTINF:-1 tvg-id="reka" tvg-chno="88" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/reka.png",כאן Reka
+plugin://plugin.video.idanplus/?mode=5&url=rd_reka
+
+#EXTINF:-1 tvg-id="90fm" tvg-chno="90" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/90fm.jpg",90FM רדיו תשעים
+plugin://plugin.video.idanplus/?mode=5&url=rd_90
+
+#EXTINF:-1 tvg-id="music" tvg-chno="91" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/music.png",כאן קול המוסיקה
+plugin://plugin.video.idanplus/?mode=5&url=rd_music
+
+#EXTINF:-1 tvg-id="91fm" tvg-chno="91" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/91fm.jpg",91FM רדיו לב המדינה
+plugin://plugin.video.idanplus/?mode=5&url=rd_91
+
+#EXTINF:-1 tvg-id="moreshet" tvg-chno="92" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/moreshet.png",כאן מורשת
+plugin://plugin.video.idanplus/?mode=5&url=rd_moreshet
+
+#EXTINF:-1 tvg-id="makan" tvg-chno="92" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/makan.png",כאן מכאן
+plugin://plugin.video.idanplus/?mode=5&url=rd_makan
+
+#EXTINF:-1 tvg-id="" tvg-chno="92" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kolplay.png",קול Play
+plugin://plugin.video.idanplus/?mode=5&url=rd_kolplay
+
+#EXTINF:-1 tvg-id="" tvg-chno="93" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/23tv.jpg",כאן ילדים
+plugin://plugin.video.idanplus/?mode=5&url=rd_kankids
+
+#EXTINF:-1 tvg-id="kolhay" tvg-chno="93" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kolhay.jpg",93FM קול חי
+plugin://plugin.video.idanplus/?mode=5&url=rd_kolhay
+
+#EXTINF:-1 tvg-id="" tvg-chno="94" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/mizrahit.png",קול הים התיכון
+plugin://plugin.video.idanplus/?mode=5&url=rd_mizrahit
+
+#EXTINF:-1 tvg-id="gly" tvg-chno="94" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/gly.jpg",גלי ישראל
+plugin://plugin.video.idanplus/?mode=5&url=rd_gly
+
+#EXTINF:-1 tvg-id="bet" tvg-chno="95" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/bet.png",כאן ב
+plugin://plugin.video.idanplus/?mode=5&url=rd_bet
+
+#EXTINF:-1 tvg-id="" tvg-chno="95" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/fm95.5.png",95.5FM רדיו
+plugin://plugin.video.idanplus/?mode=5&url=rd_fm995
+
+#EXTINF:-1 tvg-id="glz" tvg-chno="96" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/glz.jpg",גלי צה"ל
+plugin://plugin.video.idanplus/?mode=5&url=rd_glz
+
+#EXTINF:-1 tvg-id="97fm" tvg-chno="97" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/97fm.jpg",97FM רדיו דרום
+plugin://plugin.video.idanplus/?mode=5&url=rd_97
+
+#EXTINF:-1 tvg-id="99fm" tvg-chno="99" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/99fm.png",ECO 99FM
+plugin://plugin.video.idanplus/?mode=5&url=rd_99
+
+#EXTINF:-1 tvg-id="35" tvg-chno="97" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/hidabroot.jpg",ערוץ הידברות
+plugin://plugin.video.idanplus/?mode=5&url=ch_97\
+
+#EXTINF:-1 tvg-id="34" tvg-chno="99" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/knesset.png",ערוץ הכנסת
+plugin://plugin.video.idanplus/?mode=5&url=ch_99
+
+#EXTINF:-1 tvg-id="100fm" tvg-chno="100" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/100fm.jpg",100FM רדיוס
+plugin://plugin.video.idanplus/?mode=5&url=ch_100
+
+#EXTINF:-1 tvg-id="100fm" tvg-chno="100" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/100fm.jpg",100FM רדיוס
+plugin://plugin.video.idanplus/?mode=5&url=rd_100
+
+#EXTINF:-1 tvg-id="101fm" tvg-chno="101" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/101fm.png",101FM רדיו ירושלים
+plugin://plugin.video.idanplus/?mode=5&url=rd_101
+
+#EXTINF:-1 tvg-id="1015fm" tvg-chno="101" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/1015fm.jpg",101.5FM רדיו דרום
+plugin://plugin.video.idanplus/?mode=5&url=rd_1015
+
+#EXTINF:-1 tvg-id="102fm" tvg-chno="102" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/102fm.jpg",102FM רדיו תל אביב
+plugin://plugin.video.idanplus/?mode=5&url=rd_102
+
+#EXTINF:-1 tvg-id="102fmEilat" tvg-chno="102" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/102fmEilat.jpg",102FM רדיו קול הים האדום
+plugin://plugin.video.idanplus/?mode=5&url=rd_102Eilat
+
+#EXTINF:-1 tvg-id="" tvg-chno="102" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kolhaymusic.jpg",קול חי מיוזיק
+plugin://plugin.video.idanplus/?mode=5&url=rd_kolhaymusic
+
+#EXTINF:-1 tvg-id="103fm" tvg-chno="103" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/103fm.png",103FM רדיו ללא הפסקה
+plugin://plugin.video.idanplus/?mode=5&url=rd_103
+
+#EXTINF:-1 tvg-id="1045fm" tvg-chno="104" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/1045fm.jpg",104.5FM רדיו צפון
+plugin://plugin.video.idanplus/?mode=5&url=rd_1045
+
+#EXTINF:-1 tvg-id="gimel" tvg-chno="105" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/gimel.png",כאן גימל
+plugin://plugin.video.idanplus/?mode=5&url=rd_gimel
+
+#EXTINF:-1 tvg-id="culture" tvg-chno="105" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/culture.png",כאן תרבות
+plugin://plugin.video.idanplus/?mode=5&url=rd_culture
+
+#EXTINF:-1 tvg-id="5radio" tvg-chno="105" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/Sport5.png",רדיו ספורט 5
+plugin://plugin.video.idanplus/?mode=5&url=ch_sport5
+
+#EXTINF:-1 tvg-id="kolbarama" tvg-chno="105" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kolbarama.jpg",קול ברמה
+plugin://plugin.video.idanplus/?mode=5&url=rd_kolbarama
+
+#EXTINF:-1 tvg-id="" tvg-chno="106" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/1064fm.jpg",Лучшее Радио 106.4FM
+plugin://plugin.video.idanplus/?mode=5&url=rd_1064
+
+#EXTINF:-1 tvg-id="1075fm" tvg-chno="107" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/1075fm.jpg",107.5FM רדיו חיפה
+plugin://plugin.video.idanplus/?mode=5&url=rd_1075
+
+#EXTINF:-1 tvg-id="glglz" tvg-chno="107" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/glglz.jpg",גלגל"צ
+plugin://plugin.video.idanplus/?mode=5&url=rd_glglz
+
+#EXTINF:-1 tvg-id="891fm" tvg-chno="891" group-title="TV" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/891fm.png",Первое Радио 89.1FM
+plugin://plugin.video.idanplus/?mode=5&url=rd_891
+
