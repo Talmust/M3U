@@ -55,10 +55,10 @@ plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stre
 #EXTINF:-1 tvg-id="403563" tvg-chno="45" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/NatGeoWild.png",Nat Geo Wild
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-745.php
 
-#EXTINF:-1 tvg-id="403578" tvg-chno="46" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/img/NationalGeographic.png",National Geographic
+#EXTINF:-1 tvg-id="403578" tvg-chno="46" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/NationalGeographic.png",National Geographic
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-328.php
 
-#EXTINF:-1 tvg-id="403739" tvg-chno="47" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/img/DestinationAmerica.png",Destination America
+#EXTINF:-1 tvg-id="403739" tvg-chno="47" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/DestinationAmerica.png",Destination America
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-651.php
 
 #EXTINF:-1 tvg-id="422712" tvg-chno="48" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/RedBull.png",Red Bull TV
