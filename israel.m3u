@@ -1,45 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Yes Movies Action" tvg-chno="1" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/yesmoviesaction.png",Yes Movies Action
+#EXTINF:-1 tvg-id="Yes Movies Action" tvg-chno="1" group-title="Israel" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/yesmoviesaction.png",Yes Movies Action
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-543.php
 
-#EXTINF:-1 tvg-id="Yes Movies Kids" tvg-chno="2" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/yesmovieskids.png",Yes Movies Kids
+#EXTINF:-1 tvg-id="Yes Movies Kids" tvg-chno="2" group-title="Israel" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/yesmovieskids.png",Yes Movies Kids
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-544.php
 
-#EXTINF:-1 tvg-id="HOT3" tvg-chno="3" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/hot3.png",HOT3
+#EXTINF:-1 tvg-id="HOT3" tvg-chno="3" group-title="Israel" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/hot3.png",HOT3
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-553.php
 
-#EXTINF:-1 tvg-id="Yes Movies Comedy" tvg-chno="4" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/yesmoviescomedy.png",Yes Movies Comedy
+#EXTINF:-1 tvg-id="Yes Movies Comedy" tvg-chno="4" group-title="Israel" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/yesmoviescomedy.png",Yes Movies Comedy
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-545.php
 
-#EXTINF:-1 tvg-id="ONE 2 HD" tvg-chno="49" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/one2.png",ONE 2 HD
+#EXTINF:-1 tvg-id="ONE 2 HD" tvg-chno="49" group-title="Israel" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/one2.png",ONE 2 HD
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-542.php
 
-#EXTINF:-1 tvg-id="ONE 1 HD" tvg-chno="50" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/one1.png",ONE 1 HD
+#EXTINF:-1 tvg-id="ONE 1 HD" tvg-chno="50" group-title="Israel" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/one1.png",ONE 1 HD
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-541.php
 
-#EXTINF:-1 tvg-id="ספורט 1" tvg-chno="51" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/sport1.png",ספורט 1
+#EXTINF:-1 tvg-id="ספורט 1" tvg-chno="51" group-title="Israel" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/sport1.png",ספורט 1
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-140.php
 
-#EXTINF:-1 tvg-id="ספורט 2" tvg-chno="52." group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/sport2.png",ספורט 2
+#EXTINF:-1 tvg-id="ספורט 2" tvg-chno="52." group-title="Israel" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/sport2.png",ספורט 2
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-141.php
 
-#EXTINF:-1 tvg-id="ספורט 3" tvg-chno="53" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/sport3.png",ספורט 3
+#EXTINF:-1 tvg-id="ספורט 3" tvg-chno="53" group-title="Israel" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/sport3.png",ספורט 3
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-142.php
 
-#EXTINF:-1 tvg-id="ספורט 4" tvg-chno="54" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/sport4.png",ספורט 4
+#EXTINF:-1 tvg-id="ספורט 4" tvg-chno="54" group-title="Israel" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/sport4.png",ספורט 4
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-143.php
 
-#EXTINF:-1 tvg-id="ספורט 5" tvg-chno="55" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/sport5.png",ספורט 5
+#EXTINF:-1 tvg-id="ספורט 5" tvg-chno="55" group-title="Israel" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/sport5.png",ספורט 5
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-144.php
 
-#EXTINF:-1 tvg-id="ספורט 5+" tvg-chno="56" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/sport5plus.png",ספורט 5+
+#EXTINF:-1 tvg-id="ספורט 5+" tvg-chno="56" group-title="Israel" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/sport5plus.png",ספורט 5+
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-145.php
 
-#EXTINF:-1 tvg-id="ספורט 5 Gold" tvg-chno="57" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/sport5gold.png",ספורט 5 Gold
+#EXTINF:-1 tvg-id="ספורט 5 Gold" tvg-chno="57" group-title="Israel" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/sport5gold.png",ספורט 5 Gold
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-148.php
 
-#EXTINF:-1 tvg-id="ספורט 5 Live" tvg-chno="58" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/sport5live.png",ספורט 5 Live
+#EXTINF:-1 tvg-id="ספורט 5 Live" tvg-chno="58" group-title="Israel" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/sport5live.png",ספורט 5 Live
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-146.php
 
-#EXTINF:-1 tvg-id="ספורט 5 Stars" tvg-chno="59" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/sport5stars.png",ספורט 5 Stars
+#EXTINF:-1 tvg-id="ספורט 5 Stars" tvg-chno="59" group-title="Israel" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/sport5stars.png",ספורט 5 Stars
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-147.php
