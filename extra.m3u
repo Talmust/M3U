@@ -4,7 +4,7 @@ plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stre
 
 #EXTINF:-1 tvg-id="iFoodTV.us" tvg-chno="27" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/ifood.jpg" group-title="Extra",iFood.TV (720p)
 https://ifood-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="421916" tvg-chno="28" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/InvestigationDiscovery.png",Investigation Discovery
+#EXTINF:-1 tvg-id="403880" tvg-chno="28" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/Talmust/M3U/main/img/InvestigationDiscovery.png",Investigation Discovery
 plugin://plugin.video.daddylive/?mode=play&url=https://daddylive.mp//stream/stream-324.php
 
 #EXTINF:-1 tvg-id="Dateline247.us" "tvg-chno="29" tvg-logo="https://i.imgur.com/8mAJuut.png" group-title="Extra",Dateline 24/7
