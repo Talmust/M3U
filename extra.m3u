@@ -22,9 +22,6 @@ https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="369721" tvg-chno="34" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Extra",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OutsideTV.us "tvg-chno="35" tvg-logo="https://i.imgur.com/0UMmG41.png" group-title="Extra",Outside TV (720p)
-https://outside-tv-samsung-ca.samsung.wurl.tv/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="WaypointTV.us" "tvg-chno="36" tvg-logo="https://i.imgur.com/9vvlJN9.png" group-title="Extra",Waypoint TV (1080p)
 https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
 
