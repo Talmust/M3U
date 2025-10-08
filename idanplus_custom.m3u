@@ -6,7 +6,7 @@ plugin://plugin.video.idanplus/?mode=5&url=ch_10
 plugin://plugin.video.idanplus/?mode=5&url=ch_11
 
 #EXTINF:-1 tvg-id="12" tvg-chno="12" group-title="Idan+ Plus" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/keshet.jpg",קשת 12
-plugin://plugin.video.idanplus/?mode=5&url=ch_12
+plugin://plugin.video.idanplus/?mode=5&url=ch_12b
 
 #EXTINF:-1 tvg-id="13" tvg-chno="13" group-title="Idan+ Plus" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/13.jpg",רשת 13
 plugin://plugin.video.idanplus/?mode=5&url=ch_13
